@@ -1,0 +1,10 @@
+RegionCommon.c:38:16:CountChannels	24	static
+RegionCommon.c:54:10:RegionCommonGetJoinDc	24	static
+RegionCommon.c:73:6:RegionCommonChanVerifyDr	32	static
+RegionCommon.c:97:9:RegionCommonValueInRange	24	static
+RegionCommon.c:106:6:RegionCommonChanDisable	24	static
+RegionCommon.c:121:9:RegionCommonCountChannels	24	static
+RegionCommon.c:138:6:RegionCommonChanMaskCopy	32	static
+RegionCommon.c:149:6:RegionCommonSetBandTxDone	16	static
+RegionCommon.c:154:13:RegionCommonUpdateBandTimeOff	32	static
+RegionCommon.c:182:9:RegionCommonParseLinkAdrReq	24	static

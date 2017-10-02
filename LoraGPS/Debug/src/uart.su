@@ -1,0 +1,2 @@
+uart.c:13:6:UART_Config	32	static
+uart.c:40:6:UART2_Init	8	static
